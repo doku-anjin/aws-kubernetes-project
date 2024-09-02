@@ -42,8 +42,9 @@ spec:
           httpGet:
             path: "/readiness_check"
             port: 5153
-          initialDelaySeconds: 5
-          timeoutSeconds: 5
+          initialDelaySeconds: 20
+          timeoutSeconds: 10
+          failureThreshold: 3
         envFrom:
         - configMapRef:
             name: configmap
