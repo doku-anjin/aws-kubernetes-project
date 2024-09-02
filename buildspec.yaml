@@ -9,7 +9,7 @@ phases:
     commands:
       - echo Build started on `date`
       - echo Building the Docker image...
-      - docker build -t coworking:$BUILD_NUMBER .
+      - docker build -t coworking:$CODEBUILD_BUILD_NUMBER  .
       - docker tag coworking:$CODEBUILD_BUILD_NUMBER  $AWS_ACCOUNT_ID.dkr.ecr.$AWS_DEFAULT_REGION.amazonaws.com/coworking:$CODEBUILD_BUILD_NUMBER
 
   post_build:
