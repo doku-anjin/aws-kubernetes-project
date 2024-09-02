@@ -11,7 +11,7 @@ COPY analytics .
 RUN pip install -r requirements.txt
 
 ENV DB_USERNAME=coworking
-ENV DB_PASSWORD=coworking!
+ENV DB_PASSWORD=coworking@123
 ENV DB_HOST=127.0.0.1
 ENV DB_PORT=5433
 ENV DB_NAME=coworking
