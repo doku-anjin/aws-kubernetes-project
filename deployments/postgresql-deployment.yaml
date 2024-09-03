@@ -20,7 +20,7 @@ spec:
         - name: POSTGRES_USER
           value: coworking
         - name: POSTGRES_PASSWORD
-          value: coworking@123
+          value: mypassword
         ports:
         - containerPort: 5432
         volumeMounts:
