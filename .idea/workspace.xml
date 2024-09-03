@@ -30,7 +30,7 @@
   &quot;isMigrated&quot;: true
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -83,7 +83,7 @@
       <workItem from="1725268192665" duration="5262000" />
       <workItem from="1725288155887" duration="1757000" />
       <workItem from="1725289974433" duration="9454000" />
-      <workItem from="1725299644697" duration="7556000" />
+      <workItem from="1725299644697" duration="32619000" />
     </task>
     <servers />
   </component>
