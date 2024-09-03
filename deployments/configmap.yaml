@@ -7,11 +7,5 @@ data:
   DB_USERNAME: "coworking"
   DB_HOST: "postgresql-service.default.svc.cluster.local"
   DB_PORT: "5432"
----
-apiVersion: v1
-kind: Secret
-metadata:
-  name: database-secret
-type: Opaque
-data:
-  DB_PASSWORD: bXlwYXNzd29yZA==
+
+
