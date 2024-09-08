@@ -1,4 +1,4 @@
-FROM python:3.10.0
+FROM python:3.12.5
 
 RUN apt update -y && \
     apt install -y build-essential libpq-dev && \
