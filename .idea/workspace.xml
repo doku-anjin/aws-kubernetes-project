@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c8f87bf-10a8-49fb-aead-ffff7b0ccfd6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cluster-config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cluster-config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deployments/coworking.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/deployments/coworking.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-account.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/service-account.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytics/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/analytics/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +106,7 @@
       <workItem from="1725379093845" duration="9993000" />
       <workItem from="1725550207836" duration="15518000" />
       <workItem from="1725635329532" duration="19661000" />
-      <workItem from="1725798983222" duration="8517000" />
+      <workItem from="1725798983222" duration="10160000" />
     </task>
     <servers />
   </component>
