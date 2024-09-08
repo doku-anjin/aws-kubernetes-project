@@ -1,4 +1,4 @@
-FROM python:3.12.3
+FROM --platform=linux/arm python:3.12.3
 
 RUN apt update -y && \
     apt install -y build-essential libpq-dev && \
